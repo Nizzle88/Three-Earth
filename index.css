@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+}
+
+.font-exo {
+	font-family: 'Exo 2', sans-serif;
+}
+
+.font-lato {
+	font-family: 'lato', sans-serif;
+}
+
+.grad1 {
+	background: radial-gradient(
+		circle at 0% 23%,
+		rgba(0, 0, 0, 1) 0%,
+		rgba(53, 5, 123, 1) 100%
+	);
+}
+
+.grad2 {
+	background: linear-gradient(
+		121deg,
+		rgba(75, 17, 83, 1) 0%,
+		rgba(6, 0, 16, 1) 100%
+	);
+}
+
+.grad3 {
+	background: linear-gradient(
+		121deg,
+		rgba(61, 14, 220, 1) 0%,
+		rgba(6, 0, 16, 1) 100%
+	);
+}
